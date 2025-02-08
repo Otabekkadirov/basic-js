@@ -26,9 +26,6 @@ function deleteDigit(n) {
 
   return maxNum;
 }
-// deleteDigit(190); => 19
-// deleteDigit(1001); => 101
-// deleteDigit(342); => 42
 
 module.exports = {
   deleteDigit,
